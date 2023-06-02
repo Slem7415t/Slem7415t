@@ -7,5 +7,5 @@
 
 ___
 
-Почта: Alex--Sem@yandex.ru
+Почта: Alex--Sem@yandex.ru<br>
 Telegram: @xAlexSemx
