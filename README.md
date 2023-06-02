@@ -9,4 +9,4 @@ ___
 
 Портфолио: [Моё резюме](https://remarkable-biscuit-ef6531.netlify.app)<br>
 Почта: Alex--Sem@yandex.ru<br>
-Telegram: [@xAlexSemx](https://web.telegram.org/a/@xAlexSemx)
+Telegram: [@xAlexSemx](https://web.telegram.org/a/xAlexSemx)
